@@ -1,0 +1,97 @@
+1)
+create table products(
+order_id int(3),
+product_name varchar(30) not null,
+shipped_date date not null,
+shipped_addr varchar(50) not null,
+primary key(order_id));
+
+
+
+alter table products order_id(1) primary key auto increment;
+
+2)
+
+alter table statistics add foreign key (country_id) references country;
+alter table 
+3)
+alter table country modify region into continent 
+
+4)
+select country_id from statistics where population < 70000000;
+
+5)
+
+
+6)
+select country_id,gdp,hdi from statistics order by(gdp);
+
+7)
+
+
+8)
+create index idx_stat_country  from statistics on(stat_id,country_id);
+
+9)
+
+
+
+10)create procedure proc_gdp(in country_id int(5))
+begin 
+
+if gdp> 6000000000
+then 
+select HIGH INCOME;
+
+elseif gdp < 6000000000
+then 
+select AVERAGE INCOME;
+
+elseif gdp >3000000000
+
+then
+select LOW INCOME;
+
+
+endif;
+endif;
+endif;
+
+end;
+$$
+
+callproc_gdp(country_id);
+
+
+
+11)
+
+
+
+12)
+
+
+
+13)
+
+db.createCollection("dbt");
+"ok" : 1 }
+db.dbt.insert({id:001,FacultyName:"Sachin",topics:"Null"});
+iteResult({ "nInserted" : 1 })
+db.dbt.insert({id:002,FacultyName:"Omkar",topics:"Bigdata"});
+iteResult({ "nInserted" : 1 })
+db.dbt.find().pretty();
+
+      "_id" : ObjectId("5cac68bda0dc41c9bedf0b1b"),
+      "id" : 1,
+      "FacultyName" : "Sachin",
+      "topics" : "Null"
+
+
+      "_id" : ObjectId("5cac68e4a0dc41c9bedf0b1c"),
+      "id" : 2,
+      "FacultyName" : "Omkar",
+      "topics" : "Bigdata"
+
+14)
+db.dbt.createIndex({"Bigdata":"idx_ibt_topics});
