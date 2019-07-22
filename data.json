@@ -1,0 +1,1009 @@
+{
+  "rasa_nlu_data": {
+    "common_examples": [
+      {
+        "text": "hi there",
+        "intent": "greet",
+        "entities": []
+      },
+      {
+        "text": "hello there",
+        "intent": "greet",
+        "entities": []
+      },
+      {
+        "text": "hey",
+        "intent": "greet",
+        "entities": []
+      },
+      {
+        "text": "hi",
+        "intent": "greet",
+        "entities": []
+      },
+      {
+        "text": "hey bot",
+        "intent": "greet",
+        "entities": []
+      },
+      {
+        "text": "good morning",
+        "intent": "greet",
+        "entities": []
+      },
+      {
+        "text": "hello",
+        "intent": "greet",
+        "entities": []
+      },
+      {
+        "text": "goodevening",
+        "intent": "greet",
+        "entities": []
+      },
+      {
+        "text": "goodafternoon",
+        "intent": "greet",
+        "entities": []
+      },
+      {
+        "text": "morning",
+        "intent": "greet",
+        "entities": []
+      },
+      {
+        "text": "bye",
+        "intent": "goodbye",
+        "entities": []
+      },
+      {
+        "text": "bye bye",
+        "intent": "goodbye",
+        "entities": []
+      },
+      {
+        "text": "thank you goodbye",
+        "intent": "goodbye",
+        "entities": []
+      },
+      {
+        "text": "thank you bye",
+        "intent": "goodbye",
+        "entities": []
+      },
+      {
+        "text": "and thats all thank you and good bye",
+        "intent": "goodbye",
+        "entities": []
+      },
+      {
+        "text": "you rock",
+        "intent": "goodbye",
+        "entities": []
+      },
+      {
+        "text": "okay thank you",
+        "intent": "goodbye",
+        "entities": []
+      },
+      {
+        "text": " What is C-CAT?",
+        "intent": "c-cat_info",
+        "entities": [
+          {
+            "start": 9,
+            "end": 14,
+            "value": "C-CAT",
+            "entity": "c-cat exam"
+          }
+        ]
+      },
+      {
+        "text": "When is the C-CAT conducted?",
+        "intent": "c-cat_info",
+        "entities": [
+          {
+            "start": 17,
+            "end": 27,
+            "value": " conducted",
+            "entity": "months"
+          }
+        ]
+      },
+      {
+        "text": "What are the minimum eligibility criteria for appearing for C-CAT?",
+        "intent": "c-cat_info",
+        "entities": [
+          {
+            "start": 21,
+            "end": 41,
+            "value": "eligibility ",
+            "entity": "eligibility "
+          },
+          {
+            "start": 33,
+            "end": 41,
+            "value": "criteria",
+            "entity": "criteria"
+          }
+        ]
+      },
+      {
+        "text": "I have obtained degree in engineering or MCA through distance education mode. Am I eligible to apply for admission to C-DAC’s PG Diploma?",
+        "intent": "c-cat_info",
+        "entities": [
+          {
+            "start": 82,
+            "end": 91,
+            "value": " eligible",
+            "entity": "  eligible"
+          },
+          {
+            "start": 105,
+            "end": 114,
+            "value": "admission",
+            "entity": "admission"
+          }
+        ]
+      },
+      {
+        "text": "When are the application forms of C-CAT available?",
+        "intent": "c-cat_info",
+        "entities": [
+          {
+            "start": 25,
+            "end": 30,
+            "value": "forms",
+            "entity": "forms"
+          },
+          {
+            "start": 39,
+            "end": 49,
+            "value": " available",
+            "entity": " available"
+          }
+        ]
+      },
+      {
+        "text": "How and where to submit the C-CAT application form?",
+        "intent": "c-cat_info",
+        "entities": [
+          {
+            "start": 46,
+            "end": 50,
+            "value": "form",
+            "entity": "form"
+          },
+          {
+            "start": 17,
+            "end": 23,
+            "value": "submit",
+            "entity": "submit"
+          }
+        ]
+      },
+      {
+        "text": "What are the different sections of the C-CAT examination?",
+        "intent": "c-cat_info",
+        "entities": [
+          {
+            "start": 22,
+            "end": 31,
+            "value": " sections",
+            "entity": " sections"
+          },
+          {
+            "start": 44,
+            "end": 56,
+            "value": " examination",
+            "entity": " examination"
+          }
+        ]
+      },
+      {
+        "text": "What are the fees for C-CAT?",
+        "intent": "c-cat_info",
+        "entities": [
+          {
+            "start": 13,
+            "end": 17,
+            "value": "fees",
+            "entity": "fees"
+          }
+        ]
+      },
+      {
+        "text": "How to obtain the admit cards for C-CAT?",
+        "intent": "c-cat_info",
+        "entities": [
+          {
+            "start": 17,
+            "end": 29,
+            "value": " admit cards",
+            "entity": " admit cards"
+          }
+        ]
+      },
+      {
+        "text": "How can I do some corrections (spelling, marks, %, year of passing, e-mail address, residence address etc.) in my C-CAT application form?",
+        "intent": "c-cat_info",
+        "entities": [
+          {
+            "start": 17,
+            "end": 29,
+            "value": " corrections",
+            "entity": " corrections"
+          },
+          {
+            "start": 131,
+            "end": 136,
+            "value": " form",
+            "entity": " form"
+          }
+        ]
+      },
+      {
+        "text": "Why I am not able to login even after providing correct login id and password?",
+        "intent": "c-cat_info",
+        "entities": [
+          {
+            "start": 56,
+            "end": 64,
+            "value": "login id",
+            "entity": "login id"
+          },
+          {
+            "start": 68,
+            "end": 77,
+            "value": " password",
+            "entity": " password"
+          }
+        ]
+      },
+      {
+        "text": "Where are C-DAC’s Post-Graduate Diploma courses offered?",
+        "intent": "seat-allocation_info ",
+        "entities": [
+          {
+            "start": 39,
+            "end": 48,
+            "value": " courses ",
+            "entity": " courses "
+          }
+        ]
+      },
+      {
+        "text": "What is seat allocation process?",
+        "intent": "seat-allocation_info ",
+        "entities": [
+          {
+            "start": 24,
+            "end": 31,
+            "value": "process",
+            "entity": "process"
+          }
+        ]
+      },
+      {
+        "text": "What is the difference between Seat allocation and Counseling?",
+        "intent": "seat-allocation_info ",
+        "entities": [
+          {
+            "start": 31,
+            "end": 46,
+            "value": "Seat allocation",
+            "entity": "Seat allocation"
+          },
+          {
+            "start": 50,
+            "end": 61,
+            "value": " Counseling",
+            "entity": " Counseling"
+          }
+        ]
+      },
+      {
+        "text": "What is Second Counseling?",
+        "intent": "seat-allocation_info ",
+        "entities": [
+          {
+            "start": 15,
+            "end": 25,
+            "value": "Counseling",
+            "entity": "Counseling"
+          }
+        ]
+      },
+      {
+        "text": "How can I know if I am eligible to apply for a particular course/centre in second counselling?",
+        "intent": "seat-allocation_info ",
+        "entities": [
+          {
+            "start": 23,
+            "end": 31,
+            "value": "eligible",
+            "entity": "eligible"
+          },
+          {
+            "start": 58,
+            "end": 64,
+            "value": "course",
+            "entity": "course"
+          },
+          {
+            "start": 65,
+            "end": 71,
+            "value": "centre",
+            "entity": "centre"
+          },
+          {
+            "start": 82,
+            "end": 93,
+            "value": "counselling",
+            "entity": "counselling"
+          }
+        ]
+      },
+      {
+        "text": "Do I need to pay to participate in Second Counseling?",
+        "intent": "seat-allocation_info ",
+        "entities": [
+          {
+            "start": 12,
+            "end": 17,
+            "value": " pay ",
+            "entity": " pay "
+          },
+          {
+            "start": 41,
+            "end": 52,
+            "value": " Counseling",
+            "entity": " Counseling"
+          }
+        ]
+      },
+      {
+        "text": "How can I save my preferences during choice filling?",
+        "intent": "seat-allocation_info ",
+        "entities": [
+          {
+            "start": 17,
+            "end": 30,
+            "value": " preferences ",
+            "entity": " preferences "
+          },
+          {
+            "start": 37,
+            "end": 51,
+            "value": "choice",
+            "entity": "choice"
+          },
+          {
+            "start": 44,
+            "end": 51,
+            "value": "filling",
+            "entity": "filling"
+          }
+        ]
+      },
+      {
+        "text": "How do seat allocations happen?",
+        "intent": "seat-allocation_info ",
+        "entities": [
+          {
+            "start": 12,
+            "end": 24,
+            "value": "allocations ",
+            "entity": "allocations "
+          },
+          {
+            "start": 7,
+            "end": 12,
+            "value": "seat ",
+            "entity": "seat "
+          }
+        ]
+      },
+      {
+        "text": "How important is the order of preferences of courses/centres given by candidates?",
+        "intent": "seat-allocation_info ",
+        "entities": [
+          {
+            "start": 29,
+            "end": 41,
+            "value": " preferences",
+            "entity": " preferences"
+          },
+          {
+            "start": 21,
+            "end": 27,
+            "value": "order ",
+            "entity": "order "
+          }
+        ]
+      },
+      {
+        "text": "What is the Cut-off for various centres?",
+        "intent": "seat-allocation_info ",
+        "entities": [
+          {
+            "start": 12,
+            "end": 20,
+            "value": "Cut-off ",
+            "entity": "Cut-off "
+          }
+        ]
+      },
+      {
+        "text": "My rank is XYZ. Please suggest (as per the previous year’s cut off) which centre I will be getting?",
+        "intent": "seat-allocation_info ",
+        "entities": [
+          {
+            "start": 3,
+            "end": 8,
+            "value": "rank ",
+            "entity": "rank "
+          }
+        ]
+      },
+      {
+        "text": "My rank is XYZ. What chances are there to get ABC centre?",
+        "intent": "seat-allocation_info ",
+        "entities": [
+          {
+            "start": 3,
+            "end": 8,
+            "value": "rank ",
+            "entity": "rank "
+          },
+          {
+            "start": 50,
+            "end": 56,
+            "value": "centre",
+            "entity": "centre"
+          }
+        ]
+      },
+      {
+        "text": "Can I lock a seat that has been allocated to me after the first round of seat allocation?",
+        "intent": "seat-allocation_info ",
+        "entities": [
+          {
+            "start": 32,
+            "end": 41,
+            "value": "allocated",
+            "entity": "allocated"
+          },
+          {
+            "start": 13,
+            "end": 17,
+            "value": "seat",
+            "entity": "seat"
+          }
+        ]
+      },
+      {
+        "text": "After all rounds of seat allocation, if seats remain vacant in a particular centre, can I get admission there? Is there an open admission session?",
+        "intent": "seat-allocation_info ",
+        "entities": [
+          {
+            "start": 10,
+            "end": 16,
+            "value": "rounds",
+            "entity": "rounds"
+          },
+          {
+            "start": 53,
+            "end": 60,
+            "value": "vacant ",
+            "entity": "vacant "
+          },
+          {
+            "start": 94,
+            "end": 103,
+            "value": "admission",
+            "entity": "admission"
+          }
+        ]
+      },
+      {
+        "text": "Why is the payment status not updated even after deduction of the fees amount from my bank?",
+        "intent": "payments_info",
+        "entities": [
+          {
+            "start": 19,
+            "end": 25,
+            "value": "status",
+            "entity": "status"
+          },
+          {
+            "start": 30,
+            "end": 38,
+            "value": "updated ",
+            "entity": "updated "
+          },
+          {
+            "start": 49,
+            "end": 58,
+            "value": "deduction",
+            "entity": "deduction"
+          }
+        ]
+      },
+      {
+        "text": "Why have I not yet received any confirmation mail, even after paying the second installment fees?",
+        "intent": "payments_info",
+        "entities": [
+          {
+            "start": 79,
+            "end": 92,
+            "value": " installment ",
+            "entity": " installment "
+          },
+          {
+            "start": 32,
+            "end": 44,
+            "value": "confirmation",
+            "entity": "confirmation"
+          },
+          {
+            "start": 44,
+            "end": 49,
+            "value": " mail",
+            "entity": " mail"
+          }
+        ]
+      },
+      {
+        "text": "I want to apply for bank loan. To whom/which centre should I approach for bonafide certificate/bank loan letter, etc.?",
+        "intent": "payments_info",
+        "entities": [
+          {
+            "start": 19,
+            "end": 29,
+            "value": " loan",
+            "entity": "loan"
+          },
+          {
+            "start": 74,
+            "end": 82,
+            "value": "bonafide",
+            "entity": "bonafide"
+          },
+          {
+            "start": 104,
+            "end": 111,
+            "value": " letter",
+            "entity": " letter"
+          }
+        ]
+      },
+      {
+        "text": "Some of the banks deny granting education loan as C-DAC is not affiliated to any University/AICTE approved. What to do?",
+        "intent": "payments_info",
+        "entities": [
+          {
+            "start": 12,
+            "end": 18,
+            "value": "banks ",
+            "entity": "banks "
+          },
+          {
+            "start": 41,
+            "end": 46,
+            "value": " loan",
+            "entity": " loan"
+          },
+          {
+            "start": 63,
+            "end": 73,
+            "value": "affiliated",
+            "entity": "affiliated"
+          }
+        ]
+      },
+      {
+        "text": "What is the process of withdrawal during admissions?",
+        "intent": "withdrawal_info",
+        "entities": [
+          {
+            "start": 11,
+            "end": 19,
+            "value": " process",
+            "entity": " process"
+          },
+          {
+            "start": 23,
+            "end": 33,
+            "value": "withdrawal",
+            "entity": "withdrawal"
+          }
+        ]
+      },
+      {
+        "text": "What is the process of withdrawal after admissions?",
+        "intent": "withdrawal_info",
+        "entities": [
+          {
+            "start": 34,
+            "end": 50,
+            "value": "after admissions",
+            "entity": "after admissions"
+          }
+        ]
+      },
+      {
+        "text": "Once allocated, can I get transfer to any other centre/course?",
+        "intent": "withdrawal_info",
+        "entities": [
+          {
+            "start": 26,
+            "end": 35,
+            "value": "transfer ",
+            "entity": "transfer "
+          },
+          {
+            "start": 4,
+            "end": 14,
+            "value": " allocated",
+            "entity": " allocated"
+          }
+        ]
+      },
+      {
+        "text": "Which centres are good for placements?",
+        "intent": "Placements_info",
+        "entities": [
+          {
+            "start": 6,
+            "end": 13,
+            "value": "centres",
+            "entity": "centres"
+          },
+          {
+            "start": 18,
+            "end": 22,
+            "value": "good",
+            "entity": "good"
+          }
+        ]
+      },
+      {
+        "text": "Does C-DAC guarantee placements once the course is completed?",
+        "intent": "Placements_info",
+        "entities": [
+          {
+            "start": 11,
+            "end": 20,
+            "value": "guarantee",
+            "entity": "guarantee"
+          },
+          {
+            "start": 51,
+            "end": 60,
+            "value": "completed",
+            "entity": "completed"
+          }
+        ]
+      },
+      {
+        "text": "Which centre has good placement record?",
+        "intent": "Placements_info",
+        "entities": [
+          {
+            "start": 32,
+            "end": 38,
+            "value": "record",
+            "entity": "record"
+          },
+          {
+            "start": 17,
+            "end": 21,
+            "value": "good",
+            "entity": "good"
+          }
+        ]
+      },
+      {
+        "text": "Which are the companies that come for placements?",
+        "intent": "Placements_info",
+        "entities": [
+          {
+            "start": 13,
+            "end": 23,
+            "value": " companies",
+            "entity": " companies"
+          }
+        ]
+      },
+      {
+        "text": "How much %(percent) of placement does each centre achieve?",
+        "intent": "Placements_info",
+        "entities": [
+          {
+            "start": 9,
+            "end": 10,
+            "value": "%",
+            "entity": "%"
+          },
+          {
+            "start": 11,
+            "end": 18,
+            "value": "percent",
+            "entity": "percent"
+          }
+        ]
+      },
+      {
+        "text": "What is the range of package and selection criteria?",
+        "intent": "Placements_info",
+        "entities": [
+          {
+            "start": 20,
+            "end": 28,
+            "value": " package",
+            "entity": " package"
+          },
+          {
+            "start": 42,
+            "end": 51,
+            "value": " criteria",
+            "entity": " criteria"
+          }
+        ]
+      },
+      {
+        "text": "I am having only II class in graduation. I do not have first class throughout (10th, 12th, graduation). Will it affect my placements?",
+        "intent": "Placements_info",
+        "entities": [
+          {
+            "start": 28,
+            "end": 39,
+            "value": " graduation",
+            "entity": " graduation"
+          }
+        ]
+      },
+      {
+        "text": "What is taught in CDAC?",
+        "intent": "general_info",
+        "entities": [
+          {
+            "start": 8,
+            "end": 14,
+            "value": "taught",
+            "entity": "taught"
+          }
+        ]
+      },
+      {
+        "text": "How can I apply for CDAC Entrance Exam?",
+        "intent": "general_info",
+        "entities": [
+          {
+            "start": 25,
+            "end": 33,
+            "value": "Entrance",
+            "entity": "Entrance"
+          }
+        ]
+      },
+      {
+        "text": "Can you get education loan CDAC?",
+        "intent": "general_info",
+        "entities": [
+          {
+            "start": 12,
+            "end": 27,
+            "value": "education loan ",
+            "entity": "education loan "
+          }
+        ]
+      },
+      {
+        "text": "Does CDAC provide placements?",
+        "intent": "general_info",
+        "entities": [
+          {
+            "start": 18,
+            "end": 28,
+            "value": "placements",
+            "entity": "placements"
+          }
+        ]
+      },
+      {
+        "text": "What does CDAC mean?",
+        "intent": "general_info",
+        "entities": [
+          {
+            "start": 10,
+            "end": 14,
+            "value": "CDAC",
+            "entity": "CDAC"
+          }
+        ]
+      },
+      {
+        "text": "How can I check my CDAC result?",
+        "intent": "general_info",
+        "entities": [
+          {
+            "start": 24,
+            "end": 30,
+            "value": "result",
+            "entity": "result"
+          }
+        ]
+      },
+      {
+        "text": "What is pre DAC?",
+        "intent": "general_info",
+        "entities": [
+          {
+            "start": 7,
+            "end": 11,
+            "value": " pre",
+            "entity": " pre"
+          }
+        ]
+      },
+      {
+        "text": "What is syllabus of CDAC entrance exam?",
+        "intent": "general_info",
+        "entities": [
+          {
+            "start": 7,
+            "end": 16,
+            "value": " syllabus",
+            "entity": " syllabus"
+          }
+        ]
+      },
+      {
+        "text": "How do i register with CDAC?",
+        "intent": "general_info",
+        "entities": [
+          {
+            "start": 9,
+            "end": 18,
+            "value": "register ",
+            "entity": "register "
+          }
+        ]
+      },
+      {
+        "text": "Is BCA student eligible for CDAC?",
+        "intent": "general_info",
+        "entities": [
+          {
+            "start": 3,
+            "end": 6,
+            "value": "BCA",
+            "entity": "BCA"
+          }
+        ]
+      },
+      {
+        "text": "Is CDAC for mechanical engineers?",
+        "intent": "general_info",
+        "entities": [
+          {
+            "start": 12,
+            "end": 23,
+            "value": "mechanical ",
+            "entity": "mechanical "
+          }
+        ]
+      },
+      {
+        "text": "What is CDAC exam for?",
+        "intent": "general_info",
+        "entities": [
+          {
+            "start": 7,
+            "end": 17,
+            "value": " CDAC exam",
+            "entity": " CDAC exam"
+          }
+        ]
+      },
+      {
+        "text": "What is Advanced Computing?",
+        "intent": "general_info",
+        "entities": [
+          {
+            "start": 8,
+            "end": 16,
+            "value": "Advanced",
+            "entity": "Advanced"
+          },
+          {
+            "start": 16,
+            "end": 26,
+            "value": "Advanced",
+            "entity": "Advanced"
+          }
+        ]
+      },
+      {
+        "text": "What is DAC Course?",
+        "intent": "general_info",
+        "entities": [
+          {
+            "start": 7,
+            "end": 11,
+            "value": " DAC",
+            "entity": " DAC"
+          },
+          {
+            "start": 11,
+            "end": 18,
+            "value": " Course",
+            "entity": " Course"
+          }
+        ]
+      },
+      {
+        "text": "Is Canteen facility available?",
+        "intent": "general_info",
+        "entities": [
+          {
+            "start": 3,
+            "end": 11,
+            "value": "Canteen ",
+            "entity": "Canteen "
+          }
+        ]
+      },
+      {
+        "text": "Is Hostel facility available?",
+        "intent": "general_info",
+        "entities": [
+          {
+            "start": 2,
+            "end": 9,
+            "value": " Hostel",
+            "entity": " Hostel"
+          }
+        ]
+      },
+      {
+        "text": "Is there is an available scholarship for course?",
+        "intent": "general_info",
+        "entities": [
+          {
+            "start": 24,
+            "end": 36,
+            "value": " scholarship",
+            "entity": " scholarship"
+          }
+        ]
+      },
+      {
+        "text": "What are the courses offered by CDAC?",
+        "intent": "general_info",
+        "entities": [
+          {
+            "start": 12,
+            "end": 21,
+            "value": " courses ",
+            "entity": " courses "
+          }
+        ]
+      },
+      {
+        "text": "What is the Qualification required for CDAC?",
+        "intent": "general_info",
+        "entities": [
+          {
+            "start": 11,
+            "end": 26,
+            "value": " Qualification ",
+            "entity": " Qualification "
+          }
+        ]
+      }
+    ]
+  }
+}
