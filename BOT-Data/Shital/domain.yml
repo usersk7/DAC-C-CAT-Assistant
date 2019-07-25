@@ -1,22 +1,20 @@
 intents
--course_payment
--course_payment_status
--course_payment_withdraw
--course_payment_mode
--course_payment_yes
+- course_payment
+- course_payment_status
+- course_payment_withdraw
+- course_payment_mode
+- course_payment_yes
 
 actions:
--utter_course_payment
--utter_course_payment_status
--utter_course_payment_withdraw
--utter_course_payment_mode
--utter_course_payment_yes
+- utter_course_payment
+- utter_course_payment_status
+- utter_course_payment_withdraw
+- utter_course_payment_mode
+- utter_course_payment_yes
 
 templates:
  utter_course_payment:
- -text: you can visit https://www.cdac.in website
-	on candidates's login,
-	you will get all information needed for payment option.
+ - text: you can visit https://www.cdac.in website on candidates's login, you will get all information needed for payment option.
 
  
  utter_course_payment_status:
