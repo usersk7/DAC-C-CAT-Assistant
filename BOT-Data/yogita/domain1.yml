@@ -1,11 +1,11 @@
 intents:
-- ccat_info
-- apply
-- Thank_you
-- conduct
-- eligibility
-- fees
-- syllabus
+ - ccat_info
+ - apply
+ - Thank_you
+ - conduct
+ - eligibility
+ - fees
+ - syllabus
 
 templates:
  utter_information:
@@ -29,10 +29,10 @@ templates:
   -text:You are welcome
   
 actions:
-- utter_ccat_info
-- utter_Thank_you
-- utter_apply
-- utter_conduct
-- utter_eligibility
-- utter_fees
-- utter_syllabus
+ - utter_ccat_info
+ - utter_Thank_you
+ - utter_apply
+ - utter_conduct
+ - utter_eligibility
+ - utter_fees
+ - utter_syllabus
