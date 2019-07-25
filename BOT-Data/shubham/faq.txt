@@ -1,0 +1,145 @@
+
+    C-CAT question
+
+
+What is C-CAT?
+C-CAT is CDAC’s Common Admission Test (C-CAT). It is an entry level examination for various PG Diploma courses offered by Centre for Development of Advanced Computing (C-DAC) conducted at all India level.
+
+When is the C-CAT conducted?
+C-CAT is conducted twice a year in the months of June and December.
+
+What are the minimum eligibility criteria for appearing for C-CAT?
+Candidates who have successfully completed their Engineering Degree or MCA or a Post Graduate in Computer Science/IT are eligible for appearing for C-CAT. For detailed information refer Section 2 of C-DAC’s PG Diploma Admission Booklet.
+I have obtained degree in engineering or MCA through distance education mode. Am I eligible to apply for admission to C-DAC’s PG Diploma?
+All candidates (including distance education mode) meeting the eligibility criteria mentioned in C-DAC's Admission Booklet can apply.
+
+When are the application forms of C-CAT available?
+The online application forms for C-CAT are usually uploaded in May for the June C-CAT and in November for the December C-CAT. The link for the application form is www.cdac.in, then click on Education & Training.
+
+How and where to submit the C-CAT application form?
+The C-CAT application form is available online and can be submitted online by paying fees through online mode by using credit/debit cards.
+
+What are the different sections of the C-CAT examination?
+C-CAT has three sections (Section A, Section B, Section C) of one hour duration each. Depending on the category of courses selected by the candidate, he/she will have to either appear for just one test paper (Section A) or two test papers (Section A and Section B) or all the three test papers (Section A, Section B and Section C). This test is conducted in computerized mode and carries negative marking for wrong answers.
+
+What are the fees for C-CAT?
+For candidates who opt (in the online application) to use their own laptops for C-CAT, the examination fee for Category I (Section A) is Rs. 1000/-, for Category II (Section A & B) is Rs. 1200/- and for Category III (Sections A, B & C) is Rs. 1400/-.
+A computer usage charge of Rs. 200/- will be added to the above-mentioned fee, if the candidate opts in the online application to use the computer of the C-CAT centre.
+
+How to obtain the admit cards for C-CAT?
+Candidates can download and print their admit cards from C-DAC’s website after logging in.
+
+How can I do some corrections (spelling, marks, %, year of passing, e-mail address, residence address etc.) in my C-CAT application form?
+Correction in e-mail address and mobile number should be mailed to course-enquiry@cdac.in . If students have made mistakes with respect to name, marks, year of passing, they may correct the same by providing correct data at the time of admission to the course.
+
+Why I am not able to login even after providing correct login id and password?
+Sometimes candidates register for more than once and get multiple form numbers, but finally they make payment using a particular form number. In such cases, candidates should check the C-CAT result, seat allocation etc using the valid form numbers. Sometimes login problems may arise due to network problem, etc.
+
+
+
+
+
+
+Where are C-DAC’s Post-Graduate Diploma courses offered?
+C-DAC’s PG Diploma courses are offered by C-DAC’s own centres and Authorised Training Centres (ATC). For details regarding C-DAC centres and ATC’s offering PG-Diploma courses, seating capacity, hostel facility, canteen etc, refer C-DAC’s PG-Diploma Admission Booklet.
+
+What is seat allocation process?
+On the basis of the course/centre preferences entered by candidates during counselling process and depending on their C-CAT ranks, candidates will be allocated seats strictly based on the order of preferences of courses and centres given by them.
+The first counseling (choice filling) has two rounds of seat allocations (Round 1 and Round 2) and the second counseling (choice filling) has one round of seat allocation (Round 3).
+
+What is the difference between Seat allocation and Counseling?
+Counseling is the process of online choice filling by the candidates. Candidates give their order of preferences of courses and training centres by logging in on to the C-DAC website.
+Seat allocation is the process of allocation of a seat to a candidate by C-DAC based on his/her order of preferences of courses and centres.
+
+What is Second Counseling?
+Second counseling is the choice filling done for vacant seats available at C-DAC’s training centres after the first two rounds of seat allocations based on the first counselling. The eligible candidates, who have not got/confirmed admissions, can once again give their order of preferences for the vacant and eligible courses and training centres by logging in on the C-DAC website.
+
+How can I know if I am eligible to apply for a particular course/centre in second counselling?
+After logging in on the C-DAC website, candidates can check their centre/course eligibility for second counseling based on the C-CAT cut-off rank of the centre/course. In second counselling, candidates can give their order of preferences of only the eligible courses and training centres.
+
+Do I need to pay to participate in Second Counseling?
+Yes. In order to participate in second counseling, the eligible candidates need to pay a caution deposit of Rs. 10,000/- + service tax and cess. The full caution deposit shall be refunded to the candidates who are not allocated any seat in the third round. However, no caution deposit shall be refunded to the candidates to whom seats are allocated in the third round.
+
+How can I save my preferences during choice filling?
+o	In the Choice Filling software, candidates should save their preferences after choosing their preferred courses and centres. The unsaved preference list will be lost upon logging out without saving. Candidates can add or delete preferences and also change their saved order of preferences before the last date.
+
+How do seat allocations happen?
+Seat allocations will happen strictly as per the order of preferences of courses/centres given by the candidates and their C-CAT ranks.
+The course-centre preferences once given by the candidate will be considered as final and he/she cannot opt for a lower preferred choice if he/she is allocated a higher preference in any round of seat allocation.
+
+If a candidate has not given preference for a particular course or a centre during the choice filling stage, he/she will not be considered for this particular course/centre in any further admission process.
+
+How important is the order of preferences of courses/centres given by candidates?
+The order of preferences of courses/centres is very important. Seat allocations will happen strictly as per the order of preferences of courses/centres given by the candidates and their C-CAT ranks.
+
+What is the Cut-off for various centres?
+Cut-off for each centre/course is calculated automatically by the seat allocation software and is not disclosed to the candidates/centres. It may vary for each batch depending on the preferences of candidates.
+
+My rank is XYZ. Please suggest (as per the previous year’s cut off) which centre I will be getting?
+
+My rank is XYZ. What chances are there to get ABC centre?
+
+The seat allocation process differs for each candidate as it depends upon how many candidates have applied for that particular course, their ranks, number of seats available etc. Hence candidates should think very well and then only give their order of preferences of courses/centres. They can give as many preferences of the centres/courses available.
+
+Can I lock a seat that has been allocated to me after the first round of seat allocation?
+
+Candidates cannot lock the centre/seat allocated to them after the first round of seat allocation. Unless it is the first preference that has been allotted to them, their seat MAY be upgraded in Round 2 allocations to a higher preference of their original choice, or it may as well remain the same.
+
+After all rounds of seat allocation, if seats remain vacant in a particular centre, can I get admission there? Is there an open admission session?
+C-DAC admissions are purely based on merit, i.e. score in C-CAT exam. We do not have open admissions, quota systems etc. Hence the vacant seats, if arise, will remain vacant after all admissions.
+
+
+
+
+
+
+payment question
+
+
+
+
+
+
+Why is the payment status not updated even after deduction of the fees amount from my bank?
+C-DAC's technical team updates the status of fee payment only when it receives the payment confirmation from the bank. It may take up to 48 hours for payment confirmation and status updation.
+Why have I not yet received any confirmation mail, even after paying the second installment fees?
+C-DAC does not send confirmation mails for 2nd installment payment. Candidates may check the payment status with the centre where they have got final admission.
+I want to apply for bank loan. To whom/which centre should I approach for bonafide certificate/bank loan letter, etc.?
+Bank loan letters are available under the candidate’s login on C-DAC website. Candidate can print the same and submit it to the bank. The candidate can also approach the centre of final admission for getting a bonafide certificate issued.
+Some of the banks deny granting education loan as C-DAC is not affiliated to any University/AICTE approved. What to do?
+Many of C-DAC’s past batch students have availed loans from various leading banks. C-DAC has its own recognition. The bonafide certificate from C-DAC helps the bank authority to know more about C-DAC’s courses and its recognition.
+
+withdrawal question
+
+What is the process of withdrawal during admissions?
+
+Candidates desiring to withdraw their admission during any stage of the admission process (i.e. before the course commences) may do so by filling the withdrawal form online, which can be accessed using their login on the C-DAC website. After submitting the form online, candidates should print the withdrawal form, sign it and post it to C-DAC ACTS, 5th Floor, Innovation Park, Panchavati, Pashan, Pune, Maharashtra 411008. Alternatively, candidates may scan the filled-in form, sign it and email it to actssupport@cdac.in.
+
+What is the process of withdrawal after admissions?
+
+Students desiring to withdraw their admission after the course commences may do so by submitting the prescribed withdrawal forms that are available at the admitted centre. No e-mail requests for withdrawal will be entertained.
+
+Once allocated, can I get transfer to any other centre/course?
+
+Requests of students to relocate to another centre after getting admission at one centre may not be entertained except in certain exceptional cases like serious medical reasons that occurred after the choice-filling process. Even in all such exceptional cases, C-CAT ranking will be strictly followed.
+
+
+placements question
+
+
+Which centres are good for placements?
+
+All training centres are equally good and facilitating proficient faculty, technical, administrative and placement services. All centres are successful in achieving good placement records.
+Does C-DAC guarantee placements once the course is completed?
+C-DAC does not guarantee placements to any student, but provides full assistance in placing its students. C-DAC has a Common Campus Placement Program (CCPP) after the end of every batch. CCPPs are conducted region-wise at Bengaluru, Hyderabad, Mumbai, Noida and Pune. Training centres from other cities are attached to one of these regional placement programmes, so that students from all centres across India get fair chance in placements.
+
+Which centre has good placement record?
+
+Which are the companies that come for placements?
+How much % of placement does each centre achieve?
+
+What is the range of package and selection criteria?
+Almost all centres are successful in achieving around 80% placements for most batches. Please refer C-DAC’s PG Diploma Admission Booklet for the list of selected recruiters. Range of package and selection criteria depend on the recruiting company.
+I am having only II class in graduation. I do not have first class throughout (10th, 12th, graduation). Will it affect my placements?
+
+Different companies come with different criteria for recruitment. Leading companies, who visit campus at the initial stages of common placements, may consider students with first class marks. However, not all companies have such criteria. Overall performance in C-DAC courses plays a vital role in C-DAC’s campus placements.

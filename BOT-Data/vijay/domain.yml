@@ -1,0 +1,49 @@
+intents:
+
+- ccat_info
+- ccat_conducted
+- eligibilty_criteria_appearing
+- application forms_available
+- submit
+- different sections_ccat examination 
+- admit cards_hall ticket
+- fees_amount_money
+
+templates:
+    utter_ccat_info:
+    - text: ccat is an entrance exam
+    utter_ccat_conducted:
+    - text: ccat is conducted twice a year in the months of June and December.
+    utter_eligibilty_criteria_appearing:
+    - text: Candidates who have successfully completed their Engineering Degree or MCA or a Post Graduate in Computer                        Science/IT are eligible for appearing for C-CAT.detailed information refer Section 2 of C-DAC�s PG Diploma Admission Booklet.
+    utter_application forms_available_submit
+    - text: The link for the application form is www.cdac.in, then click on Education & Training.
+     utter_submit:
+      - text: The ccat application form is available online and can be submitted online by paying fees through online mode by using 
+       credit/debit cards.
+      utter_different sections_ ccat examination:
+     - text: C-CAT has three sections (Section A, Section B, Section C) of one hour duration each. Depending on the category of courses
+        selected by the candidate, he/she will have to either appear for just one test paper (Section A) or two test papers 
+        (Section A and Section B) or all the three test papers (Section A, Section B and Section C). This test is conducted in 
+        computerized mode and carries negative marking for wrong answers.
+      utter_admit cards_hall ticket:
+     - text: Candidates can download and print their admit cards from C-DAC�s website after logging in.
+
+      utter_fees_amount_money:
+     - text: 1,15,000/-
+
+
+actions:
+- utter_ccat_info
+- utter_ccat_conducted
+- utter_eligibilty_criteria_appearing
+- utter_application forms_available
+- utter_submit
+- utter_different sections_ccat examination 
+- utter_admit cards_hall ticket
+- utter_fees_amount_money 
+     
+
+      
+    
+ 

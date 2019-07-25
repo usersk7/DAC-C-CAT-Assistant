@@ -1,0 +1,38 @@
+intents:
+- ccat_info
+- apply
+- Thank_you
+- conduct
+- eligibility
+- fees
+- syllabus
+
+templates:
+ utter_information:
+  - text: c-cat is an entrance exam
+   utter_apply:
+  - text: You can visut our website"https://cdac.in/index.aspx?id=edu_acts_PGDiplomaAdmission"
+  utter_conduct:
+  -text:C-CAT is conducted twice a year in the months of June and December.
+  utter_eligibility:
+  -text: Candidates who have successfully completed their Engineering Degree
+  or MCA or a Post Graduate in Computer Science/IT are eligible for appearing for C-CAT. 
+  For detailed information refer Section 2 of C-DAC’s PG Diploma Admission Booklet.
+  utter_structure:
+  - text:For candidates who opt to use their own laptops for C-CAT, the examination fee for Category I (Section A) is Rs. 1000/-,
+  for Category II (Section A & B) is Rs. 1200/- and for Category III (Sections A, B & C) is Rs. 1400/-.
+  A computer usage charge of Rs. 200/- will be added to the above-mentioned fee, 
+  if the candidate opts in the online application to use the computer of the C-CAT centre.
+  utter_syllabi:
+  - text:you can visit our website for syllabus:"https://www.cdac.in/index.aspx?id=edu_acts_PGDiplomaAdmission#"
+ utter_Thank_you:
+  -text:You are welcome
+  
+actions:
+- utter_ccat_info
+- utter_Thank_you
+- utter_apply
+- utter_conduct
+- utter_eligibility
+- utter_fees
+- utter_syllabus
