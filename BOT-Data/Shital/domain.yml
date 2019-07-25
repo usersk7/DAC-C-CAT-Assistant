@@ -5,31 +5,26 @@ intents
 - course_payment_mode
 - course_payment_yes
 
-actions:
-- utter_course_payment
-- utter_course_payment_status
-- utter_course_payment_withdraw
-- utter_course_payment_mode
-- utter_course_payment_yes
-
 templates:
  utter_course_payment:
  - text: you can visit https://www.cdac.in website on candidates's login, you will get all information needed for payment option.
 
  
  utter_course_payment_status:
- -text: CDAC technical team updates the status of fee payment 
-	only when it receives the payment confirmation from the bank.
-	It may take up to 48 hours of payment confirmation and status updation.
+ - text: CDAC technical team updates the status of fee payment only when it receives the payment confirmation from the bank. It may take up to 48 hours of payment confirmation and status updation.
 	
  utter_course_payment_withdraw:
- -text: Candidates need to fill up withdrawal formonline which can be accessed using
-  their login on the CDAC website.
+ - text: Candidates need to fill up withdrawal formonline which can be accessed using their login on the CDAC website.
 
  utter_course_payment_mode:
- -text: There are different ways to pay fees
-	you will get detail information on
- 	https://www.cdac.in website
+ - text: There are different ways to pay fees you will get detail information on https://www.cdac.in website
 
  utter_course_payment_yes:
- -text: Yes
+ - text: Yes
+
+actions:
+- utter_course_payment
+- utter_course_payment_status
+- utter_course_payment_withdraw
+- utter_course_payment_mode
+- utter_course_payment_yes
