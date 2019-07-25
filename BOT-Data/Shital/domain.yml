@@ -10,8 +10,7 @@ templates:
  - text: you can visit https://www.cdac.in website on candidates's login, you will get all information needed for payment option.
  
  utter_course_payment_status:
- - text: CDAC technical team updates the status of fee payment only when it receives the payment confirmation from the bank. It may take up to 48 hours of payment confirmation and status updation.
-	
+ - text: CDAC technical team updates the status of fee payment only when it receives the payment confirmation from the bank. It may take up to 48 hours of payment confirmation and status updation.	
  utter_course_payment_withdraw:
  - text: Candidates need to fill up withdrawal formonline which can be accessed using their login on the CDAC website.
 
