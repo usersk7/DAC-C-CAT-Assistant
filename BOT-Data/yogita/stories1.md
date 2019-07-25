@@ -14,7 +14,7 @@
 * ccat_info
   - utter_ccat_info
 * apply
- - utter_apply
+  - utter_apply
 * Thank_you
   - utter_Thank_you
 * goodbye
@@ -26,7 +26,7 @@
 * ccat_info
   - utter_ccat_info
 * CCAT
- - utter_conduct
+  - utter_conduct
 * Thank_you
   - utter_Thank_you
 * goodbye
@@ -38,7 +38,7 @@
 * ccat_info
   - utter_ccat_info
 * criteria
- - utter_eligibility
+  - utter_eligibility
 * Thank_you
   - utter_Thank_you
 * goodbye
@@ -50,7 +50,7 @@
 * ccat_info
   - utter_ccat_info
 * fees
- - utter_fees
+  - utter_fees
 * Thank_you
   - utter_Thank_you
 * goodbye
@@ -62,7 +62,7 @@
 * ccat_info
   - utter_ccat_info
 * syllabus
- - utter_syllabus
+  - utter_syllabus
 * Thank_you
   - utter_Thank_you
 * goodbye
