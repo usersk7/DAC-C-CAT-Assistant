@@ -37,7 +37,12 @@ templates:
             specifically for preparing the candidates for this 
             entrance exam.The entrance exam (C-CAT) is structured 
             with an objective of preparing the candidates for the 
-            furhter PG courses as well.
+            furhter PG courses as well.https://www.vidyanidhi.com/pre-dac.php 
+            www.sunbeaminfo.com/procedures www.ycpait.org/project/predac-2/ 
+            www.infowayltd.com/pre-dac-course 
+
+
+
 
   utter_duration_preDac:
      - text: The Preparatory Course for Post Graduate Diploma course
@@ -49,7 +54,8 @@ templates:
             Which offers different PG Diploma courses in field 
             of Computer Science, Electronics, Security,
             Mobile Computing.Diploma in Advanced Computing (DAC)
-            is a well known course offered by CDAC.
+            is a well known course offered by CDAC. https://www.cdac.in/
+
   
 utter_AdvancedComputing:
     -text: ”Advanced computing” is an expansive term and can't be
@@ -75,7 +81,8 @@ utter_PGDAC:
             is the flagship programme of ACTS. The course is targeted 
             towards engineers and IT professionals who wish to venture
             into the domain of advanced computing.Post Graduate in Management
-            with graduation degree in Science/ IT/ Computers.
+            with graduation degree in Science/ IT/ Computers. https://www.cdac.in/
+
 
 utter_duration_PGDAC:
    -text: It's a 6 month full time course.
