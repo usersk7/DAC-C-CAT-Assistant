@@ -1,0 +1,64 @@
+
+intents:
+ - seat_allocation_info
+ - ask_isbot
+ - ask_faq_languages
+ - greet
+ - goodbye
+entities:
+ - process
+ - counseling
+ - choice_filling
+ - cut_off
+ - courses
+ - pay
+ - preferences
+ - lock
+ - bot
+ - robot
+ - language
+ 
+templates:
+   utter_process:
+     - text: C-DAC's PG Diploma admission process will consist of two counseling sessions and three rounds of seat allocations.
+   utter_counseling:
+     - text: Counselling means online filling of preferences of courses and training centres by the candidates.
+   utter_choice_filling:
+     - text: In the Choice Filling software, candidates should save their preferences after choosing their preferred courses and centres.
+   utter_cut_off:
+     - text: Cut-off for each centre/course is calculated automatically by the seat allocation software and is not disclosed to the candidates/centres. It may vary for each batch depending on the preferences of candidates.
+   utter_courses:
+     - text: C-DAC’s PG Diploma courses are offered by C-DAC’s own centres and Authorised Training Centres (ATC).
+   utter_pay:
+     - text: Yes. In order to participate in second counseling, the eligible candidates need to pay a caution deposit of Rs. 10,000/- + service tax and cess.
+   utter_preferences:
+     - text: The order of preferences of courses/centres is very important. Seat allocations will happen strictly as per the order of preferences of courses/centres given by the candidates and their C-CAT ranks.
+   utter_lock:
+     - text: Candidates cannot lock the centre/seat allocated to them after the first round of seat allocation.    
+   utter_bot:
+     - text: Yes, I am artificial intelligence chatbot 
+   utter_robot:
+     - text: No, I am not a Robot
+   utter_language:
+     - text: I am supported english language.
+   utter_greet:
+     - text: Hello
+   utter_goodbye:
+     - text: bye
+     
+
+
+actions:
+- utter_process
+- utter_counseling 
+- utter_choice_filling    
+- utter_cut_off
+- utter_courses
+- utter_pay
+- utter_preferences
+- utter_lock
+- utter_bot
+- utter_robot
+- utter_greet
+- utter_goodbye
+- utter_language
