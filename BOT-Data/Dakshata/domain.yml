@@ -1,0 +1,121 @@
+ intents :
+- course_info
+- course_preDac
+- course_PGDAC
+- course_PGDitiss
+- course_PGDGI
+- course_PGVLSI
+- course_PGDIoT
+- course_PGDBDA
+- course_PGDMC
+
+actions:
+- utter_preDAC
+- utter_duration_preDac
+- utter_CDAC
+- utter_AdvancedComputing
+- utter_Precat
+- utter_PGDitiss
+- utter_duration_PGDitiss
+- utter_PGDAC
+- utter_duration_PGDAC
+- utter_PGDGI
+- utter_duration_PGDGI
+- utter_PGDMC
+- utter_duration_PGDMC
+- utter_PGVLSI
+- utter_duration_PGVLSI
+- utter_PGDIoT
+- utter_duration_PGDIoT
+- utter_PGDBDA
+- utter_duration_PGDBDA
+
+
+templates:
+  utter_preDAC:
+    - text: Pre-DAC is a formal training offered by C-DAC ACTS
+            specifically for preparing the candidates for this 
+            entrance exam.The entrance exam (C-CAT) is structured 
+            with an objective of preparing the candidates for the 
+            furhter PG courses as well.
+
+  utter_duration_preDac:
+     - text: The Preparatory Course for Post Graduate Diploma course
+             is of two months duration (160 Hours) refer the course syllabus.
+
+  utter_CDAC:
+    - text: CDAC is not a course. Its name of Institute,  
+            Center for Development of Advanced Computing(CDAC). 
+            Which offers different PG Diploma courses in field 
+            of Computer Science, Electronics, Security,
+            Mobile Computing.Diploma in Advanced Computing (DAC)
+            is a well known course offered by CDAC.
+  
+utter_AdvancedComputing:
+    -text: ”Advanced computing” is an expansive term and can't be
+            specifically linked to a one definition. High performance
+            computing can be one of the meaning of Advanced computing
+            where computer clusters function as a supercomputer, to
+            undertake massive projects.      
+             
+utter_Precat:
+    -text: It is Best course for the Preparation for CDAC Entrance Exam.
+
+utter_PGDitiss:
+    -text: The Post Graduate Diploma in IT Infrastructure, Systems 
+           and Security (PG DITISS) is a 24 weeks full time programme
+           targeted towards grooming students in the arena of human-computer
+           interaction and Information System and Cyber Security.
+
+utter_duration_PGDitiss:
+    -text: It's a 6 month full time course.
+
+utter_PGDAC:
+     -text: The Post Graduate Diploma in Advanced Computing (PG-DAC) 
+            is the flagship programme of ACTS. The course is targeted 
+            towards engineers and IT professionals who wish to venture
+            into the domain of advanced computing.Post Graduate in Management
+            with graduation degree in Science/ IT/ Computers.
+
+utter_duration_PGDAC:
+   -text: It's a 6 month full time course.
+
+utter_PGDMC:
+  - text : The PG-DMC Course is targeted towards the engineers who wish to venture
+           into the domain of Mobile Computing.
+
+utter_duration_PGDMC: 
+      -text: It's a 6 month full time course.
+
+utter_PGVLSI:
+  -text : PG-DVLSI is a pioneering course offered by C-DAC to assist engineers
+          who wish to gain theoretical as well as practical knowledge in the field 
+          of Very Large Scale Integration (VLSI) design.
+
+utter_duration_PGDMC: 
+   -text: It's a 6 month full time course.
+
+utter_PGDGI:
+  -text : PG-DGi is the Post Graduate Diploma in Geoinformatics or Geomatics is
+          the synergy of multiple disciplines, namely, GIS, remote sensing, photogrammetry,
+          cartography, GPS and geodesy.
+
+utter_duration_PGDMC: 
+   -text: It's a 6 month full time course.
+
+utter_PGDIoT:
+  -text : PG-DIoT is the Post Graduate Diploma in Internet of Things will enable the student
+          to utilize various Embedded Technologies related to IoT, Sensor Networks, Communication
+          Protocols,Cloud Computing,Accessing Resources and Services needed to perform functions
+          with dynamically changing needs.
+  
+utter_duration_PGDMC:
+      -text: It's a 6 month full time course.
+
+utter_PGDBDA:
+  -text: PGDBDA is the Post Graduate Diploma in Big Data Analytics (PG-DBDA).This course
+         has a unique foucus of technologies related to big data like Hadoop, Cloud computing,
+         Data visualization, High performance computing as well as machine learning. 
+
+utter_duration_PGDMC: 
+    -text: It's a 6 month full time course.
