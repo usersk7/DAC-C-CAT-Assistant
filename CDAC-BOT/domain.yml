@@ -1,0 +1,34 @@
+%YAML 1.1
+---
+actions:
+- utter_ccat_info
+- utter_cheer_up
+- utter_did_that_help
+- utter_goodbye
+- utter_greet
+- utter_happy
+- utter_pgdac
+intents:
+- ccat_info
+- greet
+- affirm
+- deny
+- goodbye
+- mood_great
+- mood_unhappy
+templates:
+  utter_ccat_info:
+  - text: c-cat is an entrance exam
+  utter_cheer_up:
+  - image: https://i.imgur.com/nGF1K8f.jpg
+    text: 'Here is something to cheer you up:'
+  utter_did_that_help:
+  - text: Did that help you?
+  utter_goodbye:
+  - text: Bye
+  utter_greet:
+  - text: Hey! How are you?
+  utter_happy:
+  - text: Great carry on!
+  utter_pgdac:
+  - text: PG Diploma in Advanced Computing (PG-DAC)
