@@ -30,7 +30,7 @@
 - I guess you are a [chatbot](robot)
 - you are [chatbot](bot)
 - Hi there, are you the [bot](bot)?
-- What are you(bot) ?
+- What are you [bot](bot)?
 - are you sure that you're a [bot](bot)?
 - are you a [BOT](bot)
 
