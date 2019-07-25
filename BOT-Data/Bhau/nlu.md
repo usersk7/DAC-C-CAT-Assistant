@@ -1,6 +1,6 @@
 
 ## intent:seat_allocation_info
-- What is [seat allocation] process?(process)
+- What is [seat allocation](process) process
 - What is [Counseling]?(counseling)
 - How can I save my [preferences] during choice filling?(choice_filling)
 - How do seat [allocations] happen?(process)
