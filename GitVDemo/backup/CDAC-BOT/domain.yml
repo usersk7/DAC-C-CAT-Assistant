@@ -1,0 +1,81 @@
+%YAML 1.1
+---
+actions:
+- utter_bot
+- utter_ccat_info
+- utter_cheer_up
+- utter_choice_filling
+- utter_counseling
+- utter_courses
+- utter_cut_off
+- utter_did_that_help
+- utter_goodbye
+- utter_greet
+- utter_happy
+- utter_lock
+- utter_pay
+- utter_pgdac
+- utter_preferences
+- utter_process
+- utter_robot
+entities:
+- choice_filling
+- cut_off
+- process
+intents:
+- greet
+- goodbye
+- seat_allocation_info
+- stop
+- ask_isbot
+- ccat_info
+- affirm
+- deny
+- mood_great
+- mood_unhappy
+templates:
+  utter_bot:
+  - text: Yes, I am artificial intelligence chatbot
+  utter_ccat_info:
+  - text: c-cat is an entrance exam
+  utter_cheer_up:
+  - image: https://i.imgur.com/nGF1K8f.jpg
+    text: 'Here is something to cheer you up:'
+  utter_choice_filling:
+  - text: In the Choice Filling software, candidates should save their preferences
+      after choosing their preferred courses and centres.
+  utter_counseling:
+  - text: Counselling means online filling of preferences of courses and training
+      centres by the candidates.
+  utter_courses:
+  - text: C-DAC’s PG Diploma courses are offered by C-DAC’s own centres and Authorised
+      Training Centres (ATC).
+  utter_cut_off:
+  - text: Cut-off for each centre/course is calculated automatically by the seat allocation
+      software and is not disclosed to the candidates/centres. It may vary for each
+      batch depending on the preferences of candidates.
+  utter_did_that_help:
+  - text: Did that help you?
+  utter_goodbye:
+  - text: Bye
+  utter_greet:
+  - text: Hey! How are you?
+  utter_happy:
+  - text: Great carry on!
+  utter_lock:
+  - text: Candidates cannot lock the centre/seat allocated to them after the first
+      round of seat allocation.
+  utter_pay:
+  - text: Yes. In order to participate in second counseling, the eligible candidates
+      need to pay a caution deposit of Rs. 10,000/- + service tax and cess.
+  utter_pgdac:
+  - text: PG Diploma in Advanced Computing (PG-DAC)
+  utter_preferences:
+  - text: The order of preferences of courses/centres is very important. Seat allocations
+      will happen strictly as per the order of preferences of courses centres given
+      by the candidates and their C-CAT ranks.
+  utter_process:
+  - text: C-DAC's PG Diploma admission process will consist of two counseling  sessions
+      and three rounds of seat allocations.
+  utter_robot:
+  - text: No, I am not a Robot
