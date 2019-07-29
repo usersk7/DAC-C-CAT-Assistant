@@ -1,0 +1,105 @@
+intents:
+- None
+- course_payment
+- course_payment_status
+- course_payment_withdraw
+- course_payment_mode
+- course_payment_yes
+- affirm
+- ccat_info
+- dac_info
+- deny
+- goodbye
+- greet
+- mood_great
+- mood_unhappy
+- course_PGDAC
+- course_PGDitiss
+- course_PGDGI
+- course_PGVLSI
+- course_PGDIoT
+- course_PGDBDA
+- course_PGDMC
+
+templates:
+  utter_ccat_info:
+  - text: c-cat is an entrance exam.The Criteria Cognitive Aptitude Test (CCAT) is a pre-employment aptitude test that measures an individual's aptitude, or ability to solve problems, digest and apply information, learn new skills, and think critically.
+  utter_cheer_up:
+  - image: https://i.imgur.com/nGF1K8f.jpg
+    text: 'Here is something to cheer you up:'
+  utter_dac:
+  - text: DAC is course in CDAC
+  utter_did_that_help:
+  - text: Did that help you?
+  utter_goodbye:
+  - text: Bye
+  utter_greet:
+  - text: Hey! How are you?
+  utter_happy:
+  - text: Great carry on!
+  utter_pgdac:
+  - text: PG Diploma in Advanced Computing (PG-DAC)
+  utter_course_payment:
+  - text: "you can visit https://www.cdac.in website on candidates's login, you will get all information needed for payment option."
+  utter_course_payment_status:
+  - text: "CDAC technical team updates the status of fee payment only when it receives the payment confirmation from the bank.It may take up to 48 hours of payment confirmation and status updation."
+  utter_course_payment_withdraw:
+  - text: Candidates need to fill up withdrawal formonline which can be accessed using their login on the CDAC website.
+  utter_course_payment_mode:
+  - text: There are different ways to pay fees you will get detail information on https://www.cdac.in website
+  utter_course_payment_yes:
+  - text: Yes
+  utter_PGDAC:
+  - text: The Post Graduate Diploma in Advanced Computing (PG-DAC) 
+            is the flagship programme of ACTS. The course is targeted 
+            towards engineers and IT professionals who wish to venture
+            into the domain of advanced computing.Post Graduate in Management
+            with graduation degree in Science/ IT/ Computers. https://www.cdac.in/
+  utter_PGDitiss:
+   - text: The Post Graduate Diploma in IT Infrastructure, Systems 
+           and Security (PG DITISS) is a 24 weeks full time programme
+           targeted towards grooming students in the arena of human-computer
+           interaction and Information System and Cyber Security.
+  utter_PGDGI:
+  - text : PG-DGi is the Post Graduate Diploma in Geoinformatics or Geomatics is
+          the synergy of multiple disciplines, namely, GIS, remote sensing, photogrammetry,
+          cartography, GPS and geodesy.
+  utter_PGVLSI:
+  - text : PG-DVLSI is a pioneering course offered by C-DAC to assist engineers
+          who wish to gain theoretical as well as practical knowledge in the field 
+          of Very Large Scale Integration (VLSI) design.
+  utter_PGDIoT:
+  - text : PG-DIoT is the Post Graduate Diploma in Internet of Things will enable the student
+          to utilize various Embedded Technologies related to IoT, Sensor Networks, Communication
+          Protocols,Cloud Computing,Accessing Resources and Services needed to perform functions
+          with dynamically changing needs.
+  utter_PGDBDA:
+  - text: PGDBDA is the Post Graduate Diploma in Big Data Analytics (PG-DBDA).This course
+         has a unique foucus of technologies related to big data like Hadoop, Cloud computing,
+         Data visualization, High performance computing as well as machine learning. 
+  utter_PGDMC:
+  - text : The PG-DMC Course is targeted towards the engineers who wish to venture
+           into the domain of Mobile Computing.
+
+actions:
+- utter_ccat_info
+- utter_cheer_up
+- utter_course_payment
+- utter_course_payment_status
+- utter_course_payment_mode
+- utter_course_payment_withdraw
+- utter_course_payment_yes
+- utter_dac
+- utter_did_that_help
+- utter_goodbye
+- utter_greet
+- utter_happy
+- utter_pgdac
+- utter_PGDAC
+- utter_PGDitiss
+- utter_PGDGI
+- utter_PGVLSI
+- utter_PGDIoT
+- utter_PGDBDA
+- utter_PGDMC
+
