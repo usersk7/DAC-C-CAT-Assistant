@@ -1,0 +1,211 @@
+2019-07-25 10:59:46,258 [INFO ]  Starting Rasa server on http://localhost:5005
+2019-07-25 11:03:13,148 [INFO ]  Killing Sanic server now.
+2019-07-25 17:58:53,052 [INFO ]  Starting Rasa server on http://localhost:5005
+2019-07-25 17:59:49,856 [ERROR]  Couldn't create message for template 'utter_course_payment_yes'.
+2019-07-25 18:01:19,796 [ERROR]  Couldn't create message for template 'utter_course_payment_yes'.
+2019-07-25 18:02:12,012 [ERROR]  Couldn't create message for template 'utter_course_payment_yes'.
+2019-07-25 18:08:32,091 [INFO ]  Killing Sanic server now.
+2019-07-25 18:10:16,615 [INFO ]  Starting Rasa server on http://localhost:5005
+2019-07-25 18:10:40,341 [INFO ]  Killing Sanic server now.
+2019-07-25 18:17:42,291 [INFO ]  Starting Rasa server on http://localhost:5005
+2019-07-25 18:19:03,095 [INFO ]  Killing Sanic server now.
+2019-07-25 19:56:11,172 [INFO ]  Starting Rasa server on http://localhost:5005
+2019-07-25 19:58:05,989 [INFO ]  Killing Sanic server now.
+2019-07-25 20:01:53,538 [INFO ]  Starting Rasa server on http://localhost:5005
+2019-07-25 20:04:50,135 [INFO ]  Killing Sanic server now.
+2019-07-25 20:05:10,989 [INFO ]  Starting Rasa server on http://localhost:5005
+2019-07-25 20:14:37,414 [INFO ]  Killing Sanic server now.
+2019-07-25 20:15:38,592 [INFO ]  Starting Rasa server on http://localhost:5005
+2019-07-25 20:21:26,381 [INFO ]  Killing Sanic server now.
+2019-07-25 20:21:45,778 [INFO ]  Starting Rasa server on http://localhost:5005
+2019-07-25 20:25:39,574 [INFO ]  Starting Rasa server on http://localhost:5005
+2019-07-26 10:34:05,292 [INFO ]  Starting Rasa server on http://localhost:5005
+2019-07-26 10:35:16,799 [INFO ]  Killing Sanic server now.
+2019-07-26 10:45:54,867 [INFO ]  Starting Rasa server on http://localhost:5005
+2019-07-26 10:46:28,788 [INFO ]  Killing Sanic server now.
+2019-07-26 11:01:18,323 [INFO ]  Starting Rasa server on http://localhost:5005
+2019-07-26 11:02:02,981 [INFO ]  Killing Sanic server now.
+2019-07-26 11:15:28,115 [INFO ]  Starting Rasa server on http://localhost:5005
+2019-07-26 11:17:12,140 [INFO ]  Killing Sanic server now.
+2019-07-26 11:23:33,699 [INFO ]  Starting Rasa server on http://localhost:5005
+2019-07-26 11:34:13,054 [INFO ]  Starting Rasa server on http://localhost:5005
+2019-07-26 11:36:23,255 [INFO ]  Killing Sanic server now.
+2019-07-26 11:37:31,436 [INFO ]  Starting Rasa server on http://localhost:5005
+2019-07-26 11:40:15,196 [INFO ]  Killing Sanic server now.
+2019-07-26 11:41:12,614 [INFO ]  Starting Rasa server on http://localhost:5005
+2019-07-26 11:42:58,497 [INFO ]  Killing Sanic server now.
+2019-07-27 11:38:23,547 [INFO ]  Starting Rasa server on http://localhost:5005
+2019-07-27 11:39:49,176 [INFO ]  Killing Sanic server now.
+2019-07-27 11:41:17,207 [INFO ]  Starting Rasa server on http://localhost:5005
+2019-07-27 11:42:13,484 [INFO ]  Starting Rasa server on http://localhost:5005
+2019-07-27 11:42:40,142 [ERROR]  Exception occurred while handling uri: 'http://localhost:5005/'
+Traceback (most recent call last):
+  File "/home/shubham/miniconda3/lib/python3.7/site-packages/sanic/app.py", line 893, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "/home/shubham/miniconda3/lib/python3.7/site-packages/sanic/router.py", line 407, in get
+    return self._get(request.path, request.method, "")
+  File "/home/shubham/miniconda3/lib/python3.7/site-packages/sanic/router.py", line 469, in _get
+    raise NotFound("Requested URL {} not found".format(url))
+sanic.exceptions.NotFound: Requested URL / not found
+2019-07-27 11:42:40,192 [ERROR]  Exception occurred while handling uri: 'http://localhost:5005/favicon.ico'
+Traceback (most recent call last):
+  File "/home/shubham/miniconda3/lib/python3.7/site-packages/sanic/app.py", line 893, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "/home/shubham/miniconda3/lib/python3.7/site-packages/sanic/router.py", line 407, in get
+    return self._get(request.path, request.method, "")
+  File "/home/shubham/miniconda3/lib/python3.7/site-packages/sanic/router.py", line 469, in _get
+    raise NotFound("Requested URL {} not found".format(url))
+sanic.exceptions.NotFound: Requested URL /favicon.ico not found
+2019-07-27 11:42:46,422 [ERROR]  Exception occurred while handling uri: 'http://localhost:5005/'
+Traceback (most recent call last):
+  File "/home/shubham/miniconda3/lib/python3.7/site-packages/sanic/app.py", line 893, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "/home/shubham/miniconda3/lib/python3.7/site-packages/sanic/router.py", line 407, in get
+    return self._get(request.path, request.method, "")
+  File "/home/shubham/miniconda3/lib/python3.7/site-packages/sanic/router.py", line 469, in _get
+    raise NotFound("Requested URL {} not found".format(url))
+sanic.exceptions.NotFound: Requested URL / not found
+2019-07-28 14:52:34,959 [INFO ]  Starting Rasa server on http://localhost:5005
+2019-07-28 14:53:04,854 [ERROR]  Exception occurred while handling uri: 'http://localhost:5005/'
+Traceback (most recent call last):
+  File "/home/shubham/miniconda3/lib/python3.7/site-packages/sanic/app.py", line 893, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "/home/shubham/miniconda3/lib/python3.7/site-packages/sanic/router.py", line 407, in get
+    return self._get(request.path, request.method, "")
+  File "/home/shubham/miniconda3/lib/python3.7/site-packages/sanic/router.py", line 469, in _get
+    raise NotFound("Requested URL {} not found".format(url))
+sanic.exceptions.NotFound: Requested URL / not found
+2019-07-28 14:53:04,891 [ERROR]  Exception occurred while handling uri: 'http://localhost:5005/favicon.ico'
+Traceback (most recent call last):
+  File "/home/shubham/miniconda3/lib/python3.7/site-packages/sanic/app.py", line 893, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "/home/shubham/miniconda3/lib/python3.7/site-packages/sanic/router.py", line 407, in get
+    return self._get(request.path, request.method, "")
+  File "/home/shubham/miniconda3/lib/python3.7/site-packages/sanic/router.py", line 469, in _get
+    raise NotFound("Requested URL {} not found".format(url))
+sanic.exceptions.NotFound: Requested URL /favicon.ico not found
+2019-07-28 14:53:15,708 [ERROR]  Exception occurred while handling uri: 'http://localhost:5005/webhook/'
+Traceback (most recent call last):
+  File "/home/shubham/miniconda3/lib/python3.7/site-packages/sanic/app.py", line 893, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "/home/shubham/miniconda3/lib/python3.7/site-packages/sanic/router.py", line 407, in get
+    return self._get(request.path, request.method, "")
+  File "/home/shubham/miniconda3/lib/python3.7/site-packages/sanic/router.py", line 469, in _get
+    raise NotFound("Requested URL {} not found".format(url))
+sanic.exceptions.NotFound: Requested URL /webhook/ not found
+2019-07-28 14:53:43,404 [ERROR]  Exception occurred while handling uri: 'http://localhost:5005/webhooks/rest/webhook'
+Traceback (most recent call last):
+  File "/home/shubham/miniconda3/lib/python3.7/site-packages/sanic/request.py", line 149, in load_json
+    self.parsed_json = loads(self.body)
+ValueError: Expected object or value
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/shubham/miniconda3/lib/python3.7/site-packages/sanic/app.py", line 917, in handle_request
+    response = await response
+  File "/home/shubham/miniconda3/lib/python3.7/site-packages/rasa/core/channels/channel.py", line 438, in receive
+    sender_id = await self._extract_sender(request)
+  File "/home/shubham/miniconda3/lib/python3.7/site-packages/rasa/core/channels/channel.py", line 392, in _extract_sender
+    return req.json.get("sender", None)
+  File "/home/shubham/miniconda3/lib/python3.7/site-packages/sanic/request.py", line 143, in json
+    self.load_json()
+  File "/home/shubham/miniconda3/lib/python3.7/site-packages/sanic/request.py", line 153, in load_json
+    raise InvalidUsage("Failed when parsing body as json")
+sanic.exceptions.InvalidUsage: Failed when parsing body as json
+2019-07-28 14:54:01,550 [ERROR]  Exception occurred while handling uri: 'http://localhost:5005/webhooks/rest/webhook'
+Traceback (most recent call last):
+  File "/home/shubham/miniconda3/lib/python3.7/site-packages/sanic/request.py", line 149, in load_json
+    self.parsed_json = loads(self.body)
+ValueError: Expected object or value
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/shubham/miniconda3/lib/python3.7/site-packages/sanic/app.py", line 917, in handle_request
+    response = await response
+  File "/home/shubham/miniconda3/lib/python3.7/site-packages/rasa/core/channels/channel.py", line 438, in receive
+    sender_id = await self._extract_sender(request)
+  File "/home/shubham/miniconda3/lib/python3.7/site-packages/rasa/core/channels/channel.py", line 392, in _extract_sender
+    return req.json.get("sender", None)
+  File "/home/shubham/miniconda3/lib/python3.7/site-packages/sanic/request.py", line 143, in json
+    self.load_json()
+  File "/home/shubham/miniconda3/lib/python3.7/site-packages/sanic/request.py", line 153, in load_json
+    raise InvalidUsage("Failed when parsing body as json")
+sanic.exceptions.InvalidUsage: Failed when parsing body as json
+2019-07-28 14:55:00,835 [ERROR]  Exception occurred while handling uri: 'http://localhost:5005/webhook/rest'
+Traceback (most recent call last):
+  File "/home/shubham/miniconda3/lib/python3.7/site-packages/sanic/app.py", line 893, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "/home/shubham/miniconda3/lib/python3.7/site-packages/sanic/router.py", line 407, in get
+    return self._get(request.path, request.method, "")
+  File "/home/shubham/miniconda3/lib/python3.7/site-packages/sanic/router.py", line 469, in _get
+    raise NotFound("Requested URL {} not found".format(url))
+sanic.exceptions.NotFound: Requested URL /webhook/rest not found
+2019-07-28 15:00:28,836 [ERROR]  Exception occurred while handling uri: 'http://localhost:5005/webhooks/rest/webhook'
+Traceback (most recent call last):
+  File "/home/shubham/miniconda3/lib/python3.7/site-packages/sanic/app.py", line 893, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "/home/shubham/miniconda3/lib/python3.7/site-packages/sanic/router.py", line 407, in get
+    return self._get(request.path, request.method, "")
+  File "/home/shubham/miniconda3/lib/python3.7/site-packages/sanic/router.py", line 446, in _get
+    raise method_not_supported
+sanic.exceptions.MethodNotSupported: Method GET not allowed for URL /webhooks/rest/webhook
+2019-07-28 15:00:43,234 [ERROR]  Exception occurred while handling uri: 'http://localhost:5005/'
+Traceback (most recent call last):
+  File "/home/shubham/miniconda3/lib/python3.7/site-packages/sanic/app.py", line 893, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "/home/shubham/miniconda3/lib/python3.7/site-packages/sanic/router.py", line 407, in get
+    return self._get(request.path, request.method, "")
+  File "/home/shubham/miniconda3/lib/python3.7/site-packages/sanic/router.py", line 469, in _get
+    raise NotFound("Requested URL {} not found".format(url))
+sanic.exceptions.NotFound: Requested URL / not found
+2019-07-28 15:00:57,201 [ERROR]  Exception occurred while handling uri: 'http://localhost:5005/'
+Traceback (most recent call last):
+  File "/home/shubham/miniconda3/lib/python3.7/site-packages/sanic/app.py", line 893, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "/home/shubham/miniconda3/lib/python3.7/site-packages/sanic/router.py", line 407, in get
+    return self._get(request.path, request.method, "")
+  File "/home/shubham/miniconda3/lib/python3.7/site-packages/sanic/router.py", line 469, in _get
+    raise NotFound("Requested URL {} not found".format(url))
+sanic.exceptions.NotFound: Requested URL / not found
+2019-07-28 15:01:28,884 [ERROR]  Exception occurred while handling uri: unknown
+NoneType: None
+2019-07-28 15:02:05,913 [ERROR]  Exception occurred while handling uri: 'http://localhost:5005/'
+Traceback (most recent call last):
+  File "/home/shubham/miniconda3/lib/python3.7/site-packages/sanic/app.py", line 893, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "/home/shubham/miniconda3/lib/python3.7/site-packages/sanic/router.py", line 407, in get
+    return self._get(request.path, request.method, "")
+  File "/home/shubham/miniconda3/lib/python3.7/site-packages/sanic/router.py", line 469, in _get
+    raise NotFound("Requested URL {} not found".format(url))
+sanic.exceptions.NotFound: Requested URL / not found
+2019-07-28 15:05:03,207 [INFO ]  Starting Rasa server on http://localhost:5005
+2019-07-28 15:05:33,627 [ERROR]  Exception occurred while handling uri: 'http://localhost:5005/'
+Traceback (most recent call last):
+  File "/home/shubham/miniconda3/lib/python3.7/site-packages/sanic/app.py", line 893, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "/home/shubham/miniconda3/lib/python3.7/site-packages/sanic/router.py", line 407, in get
+    return self._get(request.path, request.method, "")
+  File "/home/shubham/miniconda3/lib/python3.7/site-packages/sanic/router.py", line 446, in _get
+    raise method_not_supported
+sanic.exceptions.MethodNotSupported: Method POST not allowed for URL /
+2019-07-28 15:06:23,897 [ERROR]  Exception occurred while handling uri: 'http://localhost:5005/conversations/default/parse'
+Traceback (most recent call last):
+  File "/home/shubham/miniconda3/lib/python3.7/site-packages/sanic/app.py", line 893, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "/home/shubham/miniconda3/lib/python3.7/site-packages/sanic/router.py", line 407, in get
+    return self._get(request.path, request.method, "")
+  File "/home/shubham/miniconda3/lib/python3.7/site-packages/sanic/router.py", line 469, in _get
+    raise NotFound("Requested URL {} not found".format(url))
+sanic.exceptions.NotFound: Requested URL /conversations/default/parse not found
+2019-07-28 15:17:55,350 [INFO ]  Starting Rasa server on http://localhost:5005
+2019-07-28 15:18:23,918 [ERROR]  Exception occurred while handling uri: 'http://localhost:5005/'
+Traceback (most recent call last):
+  File "/home/shubham/miniconda3/lib/python3.7/site-packages/sanic/app.py", line 893, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "/home/shubham/miniconda3/lib/python3.7/site-packages/sanic/router.py", line 407, in get
+    return self._get(request.path, request.method, "")
+  File "/home/shubham/miniconda3/lib/python3.7/site-packages/sanic/router.py", line 446, in _get
+    raise method_not_supported
+sanic.exceptions.MethodNotSupported: Method POST not allowed for URL /

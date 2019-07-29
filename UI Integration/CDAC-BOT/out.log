@@ -1,0 +1,10 @@
+2019-07-28 15:20:51,503 [INFO ]  Starting Rasa server on http://localhost:5005
+2019-07-28 15:21:38,587 [ERROR]  Exception occurred while handling uri: 'http://localhost:5005/'
+Traceback (most recent call last):
+  File "/home/shubham/miniconda3/lib/python3.7/site-packages/sanic/app.py", line 893, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "/home/shubham/miniconda3/lib/python3.7/site-packages/sanic/router.py", line 407, in get
+    return self._get(request.path, request.method, "")
+  File "/home/shubham/miniconda3/lib/python3.7/site-packages/sanic/router.py", line 446, in _get
+    raise method_not_supported
+sanic.exceptions.MethodNotSupported: Method POST not allowed for URL /
