@@ -1,0 +1,54 @@
+intents:
+- None
+- ask_isbot
+- ccat_info
+- criteria
+- seat_allocation_info
+- stop
+entities:
+- bot
+- cut_off
+- lock
+- counseling
+- robot
+- preferences
+- courses
+- pay
+- choice_filling
+- process
+templates:
+  utter_None:
+  - text: sorry.. I'm not understand..!!!
+  utter_criteria:
+  - text: Graduate in Engineering or equivalent (e.g. BE / BTech / 4-year BSc / AMIE
+      / DoEACC B Level, etc.) in Electronics/ Computer Science/ IT or related areas.OR
+      Post Graduate in Engineering Sciences (e.g. MSc in Computer Science, IT, Electronics,
+      etc.).OR Graduate in any discipline of Engineering or equivalent,OR MCA/MCM.OR
+      Post Graduate in Physics/ Computational Sciences/ Mathematics or allied areas.OR
+      Post Graduate in Management with graduation degree in Science/ IT/ Computers.
+      The candidates must have secured a minimum of 50% marks in their qualifying
+      examination.
+  utter_bot:
+  - text: Yes, I am artificial intelligence chatbot
+  utter_choice_filling:
+  - text: In the Choice Filling software, candidates should save their preferences
+      after choosing their preferred courses and centres.
+  utter_counseling:
+  - text: Counselling means online filling of preferences of courses and training
+      centres by the candidates.
+  utter_did_that_help:
+  - text: Did that help you?
+  utter_process:
+  - text: C-DAC's PG Diploma admission process will consist of two counseling sessions
+      and three rounds of seat allocations.
+  utter_robot:
+  - text: No, I am not a Robot
+actions:
+- utter_None
+- utter_bot
+- utter_choice_filling
+- utter_counseling
+- utter_criteria
+- utter_did_that_help
+- utter_process
+- utter_robot
