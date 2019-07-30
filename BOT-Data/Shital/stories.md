@@ -6,17 +6,22 @@
 * goodbye
   -utter_goodbye
 
+##str 1
+* course_payment
+  -utter_course_payment
+  
+##str2
+* course_payment_yes
+  -utter_course_payment_yes
+
 ## course_payment_mode
 * greet
   - utter_greet
 * course_payment_mode
   -utter_course_payment_mode
-* goodbye
-  -utter_goodbye
+
 
 ## course_payment_yes
-* greet
-  - utter_greet
 * course_payment_yes
   -utter_course_payment_yes
 * goodbye
